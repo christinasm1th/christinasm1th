@@ -12,7 +12,7 @@
 ## 🌱 currently learning **ML, ruby**
 
 ## 🧰 tools & technologies
-`Bash` · `Kali Linux` · `C` · `C++` · `Python` · `Linux Administration` · `Vulnerability Analysis` · `Penetration Testing` · `Nmap` · `Burp Suite` · `Malware Fundamentals` · `System Analysis`
+`Bash` · `Kali Linux` · `C` · `C++` · `Python` · `Linux Administration` · `Vulnerability Analysis` · `Penetration Testing` · `Nessus` · `Nmap` · `Burp Suite` · `Malware Fundamentals` · `System Analysis`
 
 ## 📌 featured projects
 ♡ **[CVE-2023-47250 Automated Remediation](#)** — bash automation script that detects and remediates a high-severity Linux vulnerability in Kali environments <br>
